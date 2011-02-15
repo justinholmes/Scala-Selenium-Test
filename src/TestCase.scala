@@ -1,4 +1,4 @@
-package com.example.tests;
+package com.example.tests
 
 import com.thoughtworks.selenium._
 import java.util.regex.Pattern
